@@ -1,4 +1,4 @@
-# tge-server
+# reactjs-template
 
 ## Installation:
 ``` bash
